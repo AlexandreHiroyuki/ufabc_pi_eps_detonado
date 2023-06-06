@@ -1,2 +1,3 @@
-# ufabc_pi_eps_detonado
-PI exercices' resolutions
+# UFABC Processamento da Informação EPs Detonado
+
+Resolução dos exercícios de PI
